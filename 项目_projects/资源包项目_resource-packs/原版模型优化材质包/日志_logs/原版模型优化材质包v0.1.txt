@@ -1,0 +1,13 @@
+Chinese:
+作品 原版模型优化材质包v0.1 发行说明:
+添加并优化了minecraft:竹子和minecraft:梯子的模型。目前处于测试阶段。仅更改了模型。
+开发版本为Blockbench_Java_1.9~1.21.5版模型，您可以在minecraft各个版本中测试并反馈兼容情况，欢迎反馈。
+
+English:
+Work Original Model Optimization Texture Pack v0.1 Release Notes:
+Added and optimized the models of minecraft: bamboo and minecraft: ladder.
+Currently in the testing stage.
+Only the models have been changed.
+The development version is Blockbench_Java_1.9~1.21.5 model.
+You can test and provide feedback on compatibility in various versions of Minecraft.
+Feedback is welcome.

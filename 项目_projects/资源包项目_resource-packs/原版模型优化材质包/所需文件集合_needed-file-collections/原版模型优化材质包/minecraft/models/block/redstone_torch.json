@@ -1,0 +1,39 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/torch",
+		"1": "block/red_touming",
+		"particle": "block/torch"
+	},
+	"elements": [
+		{
+			"name": "huoba",
+			"from": [7, 0, 7],
+			"to": [9, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [7, 6, 9, 16], "texture": "#0"},
+				"east": {"uv": [7, 6, 9, 16], "texture": "#0"},
+				"south": {"uv": [7, 6, 9, 16], "texture": "#0"},
+				"west": {"uv": [7, 6, 9, 16], "texture": "#0"},
+				"up": {"uv": [7, 6, 9, 8], "texture": "#0"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "red_touming1",
+			"from": [6.5, 7.5, 6.5],
+			"to": [9.5, 10.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 7]},
+			"faces": {
+				"north": {"uv": [6, 6, 9, 9], "texture": "#1"},
+				"east": {"uv": [6, 6, 9, 9], "texture": "#1"},
+				"south": {"uv": [6, 6, 9, 9], "texture": "#1"},
+				"west": {"uv": [6, 6, 9, 9], "texture": "#1"},
+				"up": {"uv": [6, 6, 9, 9], "texture": "#1"},
+				"down": {"uv": [6, 6, 9, 9], "texture": "#1"}
+			}
+		}
+	]
+}
