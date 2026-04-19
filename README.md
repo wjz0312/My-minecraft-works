@@ -10,4 +10,5 @@
 <img width="256" height="152" alt="1_1" src="https://github.com/user-attachments/assets/86b2e8a7-fa1e-4b5c-866c-64e2bd26d555" />
 <img width="256" height="152" alt="2_1" src="https://github.com/user-attachments/assets/0bdbbf14-ef74-42f9-8ab1-f7f743886a3d" />
 <h3></h3>
-作品 **原版模型优化材质包v0.1**:正在制作中
+###原版模型优化材质包v0.2 ——2026.4.19
+作品**原版模型优化材质包v0.2**:正在制作中
