@@ -1,7 +1,7 @@
 Chinese:
 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议
 
-本仓库所有无特殊声明的项目与作品均采用CC BY-NC-SA 4.0 许可协议授权。
+本项目与作品均采用CC BY-NC-SA 4.0 许可协议授权。
 
 您可以自由地：
 - 共享 — 在任何媒介以任何形式复制、发行本作品
@@ -15,24 +15,25 @@ Chinese:
   您必须基于与原先许可协议相同的许可协议分发您贡献的作品。
 
 
-作者B站& & 正版名 & Github仓库: wjz0312
-发布日期: 2026.3.8
-问题反馈&联系方式: wangjunzhe114514@126.com
+作者B站,正版名,Github仓库: wjz0312
+发布时间: 2026.3.8
+问题反馈&联系方式: wangjunzhe114514@126.com  https://github.com/wjz0312/My-minecraft-works
 
 English:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-All projects and works in this repository, unless otherwise stated, are licensed under the CC BY-NC-SA 4.0 license.
+This project and its works are licensed under the CC BY-NC-SA 4.0 License.
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, or build upon the material
+- Adapt — remix, transform, and build upon the material
 
 Under the following terms:
 - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - NonCommercial — You may not use the material for commercial purposes.
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Author Bilibili & Official Name & Github Repository: wjz0312
-Release Date: 2026.3.8
-Feedback & Contact: wangjunzhe114514@126.com
+
+Author Bilibili, Real Name, GitHub Repository: wjz0312
+Release Date: March 8, 2026
+Issues & Contact: wangjunzhe114514@126.com https://github.com/wjz0312/My-minecraft-works

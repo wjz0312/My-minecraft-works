@@ -1,0 +1,6 @@
+根据需求，此材质包只更改模型，
+因此可作为服务器材质包使用玩家其他材质包的纹理。
+在发行作品中将不包含textures文件夹。
+According to the requirements, this resource pack only changes models,
+so it can be used as a server resource pack while players use textures from other resource packs.
+The textures folder will not be included in the released version.
