@@ -1,6 +1,0 @@
-2026-4.19
-Chinese:
-给原版模型优化材质包添加了版本分类
-Englishi:
-Added version classification
-to the original model optimization texture pack
