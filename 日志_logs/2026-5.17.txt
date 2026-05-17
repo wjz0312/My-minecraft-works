@@ -1,0 +1,10 @@
+2026-5.17
+Chinese:
+原版模型优化材质包v0.2已制作完成，发布后将测试并根据反馈进行调整。
+再次调整并优化了仓库结构，并在今天上传Github
+
+Englishi:
+The original model optimization texture pack v0.2 has been completed.
+After release, it will be tested and adjusted based on feedback.
+Readjusted and optimized the repository structure again,
+and uploaded it to GitHub today

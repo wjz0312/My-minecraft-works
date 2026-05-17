@@ -1,0 +1,13 @@
+2026-4.19
+Chinese:
+使斜向上铁轨的阴影bug(MC-70257,MC-221307,MC-262644)不再那么有影响，或是基本消除，详见B站&AQQ帖子
+并在今天上传一次Github(2FA我还没弄，不知道以后能不能上传，关键是中国地区好像很难弄-_-[no way])
+多版本也还没弄，没时间，但不过模型都差不多准备好了，就差版本格式变一下，复制就行了
+
+Englishi:
+Reduce the impact of the slanted upward rail shadow bug (MC-70257, MC-221307, MC-262644),
+or basically eliminate it. For details, see the posts on Bilibili & AQQ.  
+Also, I uploaded to Github once today (I haven't set up 2FA yet, so I don't know if I can upload in the future;
+the key point is that it seems really difficult in China -_- [no way]).  
+Multiple versions haven't been done either, no time, but the models are mostly ready,
+it just requires changing the version format, copying it is fine.
